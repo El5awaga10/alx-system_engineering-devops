@@ -1,2 +1,2 @@
 #!/bin/bash
-addgroup my_dir
+useradd my_dir
