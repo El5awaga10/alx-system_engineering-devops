@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 755 .d
+sudo chmod 755 -type .d
