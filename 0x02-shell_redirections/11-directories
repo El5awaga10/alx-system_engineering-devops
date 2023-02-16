@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c *.d *
+grep -c *.d /*
